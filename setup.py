@@ -65,7 +65,7 @@ setup(
         "lockfile>=0.12",
         "pip>=8.1",
         "pyroute2>=0.3",
-        'scapy-python3>=0.20',
+        'scapy>=2.4.0',
     ],
     python_requires=">=3.5",
     extras_require={
